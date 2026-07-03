@@ -1,0 +1,8 @@
+*.pkl
+*.png
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+LSWMD.pkl
+comparison_results.pkl
+archive.zip
